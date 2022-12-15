@@ -13,3 +13,5 @@ Image 6: https://th.bing.com/th/id/R.eeb250373afc3b0d275eb9d9fc6752ca?rik=QJ6fcZ
 Portfolio 2 Image: https://www.worldbank.org/content/dam/photos/780x439/2021/aug-1/feature-story-image.png
 Portfolio 2 text source: Gezahegn, Dejen, et al. ``Prevalence and Factors Associated with Intestinal Parasites among Food Handlers of Food and Drinking Establishments in Aksum Town, Northern Ethiopia.” BMC Public Health, vol. 17, no. 1, 2017, https://doi.org/10.1186/s12889-017-4831-5. 
  Porftfolio 4 Image: https://www.theweek.in/leisure/society/2018/10/22/collecting-water-turns-millions-women-second-class-citizens.html Video source: https://youtu.be/aDipzXBGAao
+
+Portfolio 3 Image:Guardiola, J., González-Gómez, F. & Lendechy Grajales, Á. The Influence of Water Access in Subjective Well-Being: Some Evidence in Yucatan, Mexico. Soc Indic Res 110, 207–218 (2013). https://doi-org.proxy2.cl.msu.edu/10.1007/s11205-011-9925-3
